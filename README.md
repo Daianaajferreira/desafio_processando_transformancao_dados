@@ -9,3 +9,7 @@ Importei os dados do MySQL na Azure para o Power BI. Transformando os dados, est
 3. Integração do Power BI com MySQL no Azure
 
 4. Verificar problemas na base a fim de realizar a transformação dos dados
+
+5. <div  align="center"> 
+  <img src="https://github.com/Daianaajferreira/desafio_processando_transformancao_dados/blob/main/Relatorio.png">
+</div>
